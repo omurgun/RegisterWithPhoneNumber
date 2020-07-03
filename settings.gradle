@@ -1,0 +1,2 @@
+rootProject.name='RegisterWithPhoneNumber'
+include ':app'
